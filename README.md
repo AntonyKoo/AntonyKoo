@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AntonyKoo
 - 👀 I’m interested in DE and BE
-- 🌱 I’m currently learning ML&DL skill set
+- 🌱 I’m currently learning about WEB Back-end skills.
 - 📫 Contact : kina5418@naver.com

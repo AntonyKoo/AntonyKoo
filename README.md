@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AntonyKoo
-- 👀 I’m interested in DE and BE
+- 👀 I’m interested in helping people in a variety way.
 - 🌱 I’m currently learning about WEB back-end skills.
 - 📫 Contact : kina5418@naver.com
 

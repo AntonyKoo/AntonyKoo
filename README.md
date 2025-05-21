@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @DongyunKoo
 - 👀 I’m interested in helping people in a variety way.
-- 😚 Interested in Data Engineering & WEB back-end skills.
 - 📫 Contact : kina5418@naver.com
